@@ -1,5 +1,7 @@
 {
   "name": "sanitas-components-test",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
